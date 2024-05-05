@@ -7,6 +7,7 @@
   //✋❕To konto github,
 CHQRQKTER
 jest prywatnym, w kontrze został utworzony profil publiczny do udostępniania kodu w celu zachowania spójności,
+  
 CHQRQKTER-XYZ.//
 </h6>
 
