@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm chqrqkter.one</h1>
 
 //✋❕To konto github,
-`chqrqkter-xyz` 
-jest publicznym utworzonym w kontrze do prywatnego w celu zachowania spójności,
-`chqrqkter`.//
+`chqrqkter` 
+jest prywatnym, w kontrze został utworzony profil publiczny do udostępniania kodu w celu zachowania spójności,
+`chqrqkter-xyz`.//
 
 
 <h3 align="center">A dokładnie, - Rafał,
