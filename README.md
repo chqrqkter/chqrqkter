@@ -1,9 +1,14 @@
+![](https://komarev.com/ghpvc/?username=chqrqkter&style=for-the-badge&color=blueviolet)
+
+
 <h1 align="center">Hi 👋, I'm chqrqkter.one</h1>
 
-//✋❕To konto github,
-`chqrqkter` 
+<h6 align="right">
+  //✋❕To konto github,
+CHQRQKTER
 jest prywatnym, w kontrze został utworzony profil publiczny do udostępniania kodu w celu zachowania spójności,
-`chqrqkter-xyz`.//
+CHQRQKTER-XYZ.//
+</h6>
 
 
 <h3 align="center">A dokładnie, - Rafał,
